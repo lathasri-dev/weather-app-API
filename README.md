@@ -29,3 +29,41 @@ This is a web-based weather application built using Flask that provides real-tim
    - Weather Icon
 
 ## 📂 Project Structure
+weather-app/
+│── weather_app.py
+│── templates/
+│ └── index.html
+│── static/ (optional for CSS/images)
+│── README.md
+
+
+## ▶️ How to Run the Project
+
+### 1. Clone the Repository
+
+### 2. Install Dependencies
+
+### 3. Run the Application
+
+### 4. Open in Browser
+
+
+## 🔑 API Configuration
+- This project uses OpenWeatherMap API.
+- Replace the API key in `weather_app.py`:
+
+- 
+## ⚠️ Limitations
+- No forecast (only current weather)
+- No geolocation support
+- Basic UI (can be improved)
+
+## 📈 Future Improvements
+- Add 5-day weather forecast
+- Improve UI with CSS/Bootstrap
+- Add geolocation (auto-detect location)
+- Deploy using Render/Heroku
+- Add unit toggle (Celsius/Fahrenheit)
+
+## 🙌 Author
+Kondaveeti Lathasri
